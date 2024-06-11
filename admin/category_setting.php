@@ -54,7 +54,7 @@ require_once('includes.php');
                                         <div id="markad-sidebar" class="col-sm-4">
                                             <div id="markad-categories-list" class="markad-nav">
                                                 <div class="markad-nav-item active markad-category-item markad-js-all-services">
-                                                    <div class="markad-padding-vertical-xs">All Categories</div>
+                                                    <div class="markad-padding-vertical-xs">All Categoriescdcsdc</div>
                                                 </div>
                                                 <ul id="markad-category-item-list" class="ui-sortable">
                                                     <?php
